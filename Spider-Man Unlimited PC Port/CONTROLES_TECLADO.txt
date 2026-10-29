@@ -1,0 +1,10 @@
+CONTROLES DE TECLADO
+
+S o flecha abajo: deslizarte por debajo de obstaculos.
+W, Espacio o flecha arriba: saltar (gesto hacia arriba).
+A/D o flechas izquierda/derecha: cambiar de carril al pulsar.
+Mantener A/D o flechas laterales: inclinarte a izquierda/derecha al escalar o en caida libre.
+
+Las teclas laterales mantenidas tienen prioridad sobre el mouse. Ambas direcciones a la vez se neutralizan. Al soltar la ultima tecla se vuelve al centro; vuelve a mover el mouse para usarlo como inclinacion. Perder el foco cancela las teclas mantenidas.
+
+El mouse conserva sus toques, arrastres y pulsacion mantenida. F2 cambia el modo de clics laterales. F11 o Alt+Enter cambian pantalla completa.

@@ -1,0 +1,66 @@
+{
+  "CONTROLES_MOUSE.txt": {
+    "bytes": 1065,
+    "sha256": "d30468b5339543cb143f88264124b981112b406d73d0f1760877abb31ecd1d63"
+  },
+  "CONTROLES_TECLADO.txt": {
+    "bytes": 701,
+    "sha256": "27f9f609086e8676fac5f346fb84d8652b899623df5d6a409f566d0d327376c2"
+  },
+  "Graficos/libEGL.dll": {
+    "bytes": 381080,
+    "sha256": "128e6f9e71680988a533c43507834b7596eaefbc454e6327caf2a2362889aaf6"
+  },
+  "Graficos/libGLESv2.dll": {
+    "bytes": 7025816,
+    "sha256": "2a731851678d6755fbad88d2534d319e690718af001236b8b680d7876e4b8884"
+  },
+  "LEEME.txt": {
+    "bytes": 3230,
+    "sha256": "679ba547ed61ae9a97bd63725bebfa2f3b7da3994970c70f9ae088459c51ce39"
+  },
+  "licencias/Bangers-OFL.txt": {
+    "bytes": 4481,
+    "sha256": "860fba9b576360e57affcdd94994c70bf06da151415b3cf283d27e8c8354d1cc"
+  },
+  "licencias/Chromium-ANGLE.html": {
+    "bytes": 8886326,
+    "sha256": "a8856fbd8d9d846b2b272063de30b8569dc18d0b5b9024798272adf8ede0caf7"
+  },
+  "licencias/GCC_RUNTIME_EXCEPTION.txt": {
+    "bytes": 3324,
+    "sha256": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74"
+  },
+  "licencias/GPL3.txt": {
+    "bytes": 35147,
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+  },
+  "licencias/ThirdPartyLegalNotices.css": {
+    "bytes": 382,
+    "sha256": "908dd1fbfb2352dd6dd6fce7f539a4223072053b458410a53231039101d851b4"
+  },
+  "licencias/zlib.txt": {
+    "bytes": 1002,
+    "sha256": "e32ff4e00d9d94930537635291da39e7e612703334bf6fde8c7f1686fe8a45a2"
+  },
+  "MODO_OFFLINE.md": {
+    "bytes": 10933,
+    "sha256": "a6a83f375e56a533e1904d8ce030076a1f562c8561d553305f904ae23c4fc40b"
+  },
+  "Play Spider-Man Unlimited PC PORT.exe": {
+    "bytes": 656145,
+    "sha256": "1d6ece1aee410b3cc42a8463971b899316be4b66470ab7a11c7d090a0677c40f"
+  },
+  "port.ini": {
+    "bytes": 107,
+    "sha256": "ffe578b81cea9029944a08f918530d12eda6cbace963f0f50e7f69d022a4fe6f"
+  },
+  "Spider-Man Unlimited PC PORT.exe": {
+    "bytes": 4543178,
+    "sha256": "9c39dc5e00e45bce6f0e5f03944561a84d82416ee7416795a04b1dedd9b0d7e1"
+  },
+  "TERCEROS.txt": {
+    "bytes": 1354,
+    "sha256": "5b5a3eaae64357e8f28315ed20279762ea21ae0202d05ff4a07c29a1a9b21dde"
+  }
+}

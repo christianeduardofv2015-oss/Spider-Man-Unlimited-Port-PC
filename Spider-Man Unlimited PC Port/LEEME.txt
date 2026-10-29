@@ -1,0 +1,57 @@
+﻿SPIDER-MAN UNLIMITED PC PORT
+
+PRIMER INICIO
+1. Extrae toda esta carpeta en una ubicacion donde puedas guardar archivos.
+2. Abre "Spider-Man Unlimited PC PORT.exe" (el launcher).
+3. En "Spider-Man Unlimited", selecciona tu carpeta con APK + OBB originales.
+4. Espera la preparacion y pulsa PLAY.
+
+Version compatible: Android 4.6.0c, biblioteca x86. Tambien admite el ZIP
+original de cache o la cache compatible ya extraida. Cada usuario debe
+aportar sus propios archivos originales del juego.
+
+"Play Spider-Man Unlimited PC PORT.exe" ejecuta el juego directamente una
+vez configurado. Para la primera configuracion usa siempre el launcher.
+
+CONTROLES
+S o flecha abajo: deslizarse.
+W, Espacio o flecha arriba: saltar.
+A/D o flechas laterales: cambiar de carril al pulsar; mantener para
+inclinarse al escalar y en caida libre.
+Mouse izquierdo: tocar, arrastrar o mantener como un dedo.
+F2: alternar modo dedo y clics laterales.
+F11 o Alt+Enter: pantalla completa del juego.
+Consulta CONTROLES_TECLADO.txt y CONTROLES_MOUSE.txt.
+
+CARPETAS
+Saves: partida local. Se crea al jugar; esta distribucion no incluye partidas.
+Logs: registros de inicio, cierre y errores.
+Mods: carpeta inicial para reemplazos de recursos.
+GameData: datos preparados localmente desde los originales de cada usuario.
+Graficos y licencias: conservar con los ejecutables.
+port.ini: empieza sin rutas configuradas; el launcher guarda tus ajustes.
+
+REQUISITOS
+Windows 10/11 de 64 bits con aplicaciones x86 y Direct3D 11.
+Se usa d3dcompiler_47.dll de Windows. No hace falta Steam.
+No muevas los ejecutables fuera de esta carpeta.
+
+FUNCIONES LOCALES
+Consulta MODO_OFFLINE.md para tiendas, recompensas y resistencia.
+Se incluyen las correcciones actuales del launcher, teclado y rendimiento.
+Todavia pueden aparecer tirones aislados o errores de compatibilidad.
+
+Este paquete no incluye APK, OBB, la biblioteca original del motor,
+musica, modelos ni texturas extraidos del juego. Las imagenes, fuente e
+icono de la interfaz estan incrustados en el launcher.
+Conserva TERCEROS.txt y la carpeta licencias.
+
+IDIOMAS DE LA INTERFAZ
+En el primer inicio elige Español, English, Русский, Português o Français. El idioma se guarda y puedes cambiarlo con el boton Idioma. La seccion Mods permite desplazamiento suave. Importar APK + OBB prepara recursos locales; no recompila el juego.
+
+IDIOMA DEL JUEGO
+El juego empieza por defecto en el idioma elegido en el launcher. Para elegir otro, abre Spider-Man Unlimited, baja hasta Idioma del juego y selecciona un idioma; Igual que el launcher vuelve a usar la eleccion de la interfaz. Se aplica al iniciar el juego, tambien al abrir Play directamente.
+Disponibles: Español, English, Русский, Português (Brasil) y Français. Los cinco estan incluidos en el motor original compatible.
+
+IDIOMAS DEL MODO LOCAL
+Las tiendas locales, ISO-8, Gold VIP, precios, compras, ascenso, resistencia y avisos de recompensas usan el idioma elegido para el juego: espanol, ingles, ruso, portugues o frances. Los botones de confirmacion tambien siguen ese idioma. Los precios y el progreso se conservan. Los codigos de diagnostico de los registros mantienen sus nombres.

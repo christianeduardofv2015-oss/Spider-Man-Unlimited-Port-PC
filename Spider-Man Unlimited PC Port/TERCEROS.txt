@@ -1,0 +1,23 @@
+Componentes de esta distribucion:
+
+- zlib 1.3.2, enlazada estaticamente en la interfaz para importar los ZIP/OBB.
+  Aviso completo: licencias/zlib.txt.
+- Bibliotecas de ejecucion GCC/MinGW (libgcc/libstdc++) con excepcion GCC Runtime.
+  Avisos completos: licencias/GPL3.txt y licencias/GCC_RUNTIME_EXCEPTION.txt.
+- Bangers Regular, Copyright 2010 The Bangers Project Authors.
+  Fuente sin modificar, incrustada para uso privado del proceso.
+  Aviso completo SIL Open Font License 1.1: licencias/Bangers-OFL.txt.
+- ANGLE de 32 bits, libEGL.dll y libGLESv2.dll, copias sin modificar del backend
+  local probado. Conserva el conjunto de avisos Chromium/ANGLE suministrado
+  con esa instalacion: licencias/Chromium-ANGLE.html y su CSS.
+  No se incluye Steam, CEF ni d3dcompiler.
+- Win32, GDI+, Direct3D, BCrypt y Crypt32 son componentes del Windows instalado.
+
+El logo, fondo e icono fueron aportados por el usuario para esta interfaz.
+Los ejecutables no contienen el APK, OBB, biblioteca original libSpidermanI.so,
+musica, modelos ni texturas extraidos del juego. Se obtienen de los archivos
+que cada usuario proporciona localmente.
+
+Este es un port comunitario; no se presenta como una distribucion oficial
+de Gameloft o Marvel. Los avisos de terceros se conservan sin sustituirlos
+por una licencia unica para todos los componentes.

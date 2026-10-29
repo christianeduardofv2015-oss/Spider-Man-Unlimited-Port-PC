@@ -1,0 +1,13 @@
+CONTROLES DE MOUSE, INCLUIDAS LAS FRANJAS NEGRAS
+
+Mueve el mouse dentro de toda la ventana, sin pulsar, para controlar la inclinacion al escalar y en caida libre.
+- Centro de la imagen: neutral.
+- Franja izquierda: inclinacion maxima a la izquierda.
+- Franja derecha: inclinacion maxima a la derecha.
+- Mover entre la imagen y una franja mantiene la respuesta del control.
+
+Las franjas tambien detectan clic izquierdo, mantener pulsado, clics repetidos y arrastres. Los clics se llevan al borde mas cercano de la imagen y los arrastres conservan su distancia incluso si empiezan y terminan en una franja. F2 sigue alternando modo dedo y clics laterales.
+
+Sin teclas laterales mantenidas, al salir de toda la ventana se vuelve a neutral. Perder el foco o alternar pantalla completa tambien neutraliza la inclinacion. A/D, flechas, W y el resto de controles se conservan.
+
+TECLADO: S o abajo desliza; W, Espacio o arriba salta. Mantener A/D o flechas laterales tambien controla la inclinacion al escalar y en caida libre. Consulta CONTROLES_TECLADO.txt.
